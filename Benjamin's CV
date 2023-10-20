@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body>
+		<h1>Benjamin's CV</h1>
+
+        <h2>Profile Summary:</h2>
+        <p>
+            After finishing my GCSEs and A Levels, I took a gap year to take a break from education. 
+            I gained lots of valuable work experience with remote working in customer service, market research and telephone interviewing, but also factory work and administration in person. 
+            Furthermore, I also volunteered briefly during summer, and took part in online courses to further develop my skillset. 
+            My previous studies have given me a strong foundation in computing and written communication skills, while my work experience has enabled me to develop soft skills such as strong customer service, resilience and teamwork.
+            Currently, I'm studying at university and hoping to make more connections in the computing industry.
+        </p>
+
+        <h2>Skill Summary:</h2>
+
+        <h3>Communication</h3>
+        <p>
+            Working as a Virtual Intern as well as a CX Intern has allowed me to communicate with both team members and customers. 
+            This has helped develop my interpersonal communication skills. My academic experience has developed my written communication skills. 
+            I am proficient at writing reports and preparing essays with strict guidelines.
+        </p>
+
+        <h3>IT and Tech Skills</h3>
+        <p>
+            Competent user of Microsoft Office and Google Suite. Some knowledge of C#, CSS and HTML5.
+        </p>
+        
+        <h2>Education: September 2015 - July 2022:</h2>
+
+        <h3>A Levels / BTECs (Year 13)</h3> 
+        <p>
+            Grade C in Mathematics, Grade D* (Distinction*) in Business and Computing.
+        </p>
+
+        <h3>Year 12</h3>
+        <p>
+            Grade C in Mathematics, Grade A in AQA Extended Project.
+        </p>
+
+        <h3>GCSEs (Year 11)</h3>
+        <p>
+            Four subjects with Grade 8, one subject with Grade 8/7, two subjects with Grade 7 and one subject with Grade 6.
+        </p>
+
+        <h2>Employment History</h2>
+
+        <h3>Nutrition Victor: Chocolate Packer and Assistant: August 2023 to Present Day</h3>
+        <p>
+            Primary responsibilities include but are not limited to: picking and packing orders, ensuring accurate product selection, maintaining inventory records, and adhering to safety protocols. 
+            I also help with the administration side of running the business, such as responding to customer emails and complaints, maintaining business documents and being a helpful employee overall.
+        </p>
+
+        <h3>InMoment: Telephone Interviewer (Casual Homeworker): November 2022 to August 2023</h3>
+        <p>
+            Called and collected valuable data for a multi-billion-dollar level client in a professional and user-friendly manner. 
+            Carried out customer satisfaction research on behalf of the client, with direct reporting to the Project Supervisor.
+        </p>
+
+        <h3>LOVESPACE Temporary Contract Internship: CX Intern: September 2022 to November 2022</h3>
+        <p>
+            Worked with a team and aided with customers using CRM software to maintain the reputation the company is known for. 
+            Maintained a 66% customer satisfaction rating while working, which was a significant improvement than the 50% average the help desk has. 
+            Also gave feedback for the website to improve the service even further, with direct reporting to the line manager.
+        </p>
+
+        <h3>HearMe Temporary Contract Internship: Mental Health Listener: August 2022 to October 2022</h3>
+        <p>
+            Provided one-to-one support through text-based conversations to members of the app via active listening.
+        <p>
+
+        <a href="www.linkedin.com/in/benjamin-albert-100ben">LinkedIn Profile</a>
+
+	</body>
+</html>
