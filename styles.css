@@ -5,9 +5,10 @@
 
 /* Affects all the headings */
 h1, h2, h3 {
-  text-decoration: underline overline;
   font-style: italic;
   border-style: ridge;
+  border: 2px solid;
+  border-radius: 5px;
 }
 
 /* Affects the title */
