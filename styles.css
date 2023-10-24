@@ -11,7 +11,7 @@ h1, h2, h3 {
 
 /* Affects the title */
 h1 {
-  color: cyan;
+  color: dodgerblue;
 }
 
 /* Affects the headings */
@@ -21,12 +21,13 @@ h2 {
 
 /* Affects the sub-headings */
 h3 {
-  color: darkmagenta
+  color: darkmagenta;
 }
 
 /*Affects the text */
 p {
   text-align: center;
+  color: midnightblue;
 }
 
 /* Background colour */
