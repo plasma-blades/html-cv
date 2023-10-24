@@ -29,6 +29,7 @@ h3 {
 /*Affects the text */
 p {
   text-align: center;
+  font-weight: 750;
   color: midnightblue;
   border: 1px solid dodgerblue;
   border-radius: 5px;
