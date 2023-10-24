@@ -1,12 +1,25 @@
-h1 {
-  color: red;
+/* Affects everything! */
+* {
+  font-family: Arial;
 }
 
+/* Affects the title */
+h1 {
+  color: cyan;
+  font-style: italic;
+}
+
+/* Affects the headings */
 h2 {
   color: deeppink;
   font-style: italic;
 }
 
+/* Affects the sub-headings */
+h3 {
+  color: darkmagenta
+
+/* Background colour */
 body {
   background-color: beige;
 }
