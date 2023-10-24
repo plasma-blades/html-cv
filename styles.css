@@ -29,7 +29,8 @@ h3 {
 p {
   text-align: center;
   color: midnightblue;
-  border: 3px solid dodgerblue;
+  border: 2px solid dodgerblue;
+  border-radius: 25%;
 }
 
 /* Background colour */
