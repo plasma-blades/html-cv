@@ -6,6 +6,7 @@
 /* Affects all the headings */
 h1, h2, h3 {
   font-style: italic;
+  font-weight: 500;
   border-style: ridge;
   border: 1px solid;
   border-radius: 5px;
