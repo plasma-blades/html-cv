@@ -3,21 +3,31 @@
   font-family: Arial;
 }
 
+/* Affects all the headings */
+h1, h2, h3 {
+  text-decoration: underline overline;
+  font-style: italic;
+}
+
 /* Affects the title */
 h1 {
   color: cyan;
-  font-style: italic;
 }
 
 /* Affects the headings */
 h2 {
   color: deeppink;
-  font-style: italic;
 }
 
 /* Affects the sub-headings */
 h3 {
   color: darkmagenta
+}
+
+/*Affects the text */
+p {
+  text-align: center;
+}
 
 /* Background colour */
 body {
