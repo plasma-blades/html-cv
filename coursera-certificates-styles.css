@@ -36,7 +36,8 @@ p {
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
   font-size: 18px; /* Increase the font-size */
-  display: block; /* Make it into a block element to fill the whole list */
+  display: grid;
+  grid-template-columns: auto auto;
   width: 50%;
 }
 
