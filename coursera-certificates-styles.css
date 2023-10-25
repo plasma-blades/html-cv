@@ -1,5 +1,11 @@
 /* Source: https://www.w3schools.com/howto/howto_js_filter_lists.asp */
 
+/* Affects all the text! */
+* {
+  font-family: Arial;
+  color: darkmagenta;
+}
+
 #myInput {
   background-image: url('/css/searchicon.png'); /* Add a search icon to input */
   background-position: 10px 12px; /* Position the search icon */
@@ -25,7 +31,6 @@
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
   font-size: 18px; /* Increase the font-size */
-  color: black; /* Add a black text color */
   display: block; /* Make it into a block element to fill the whole list */
 }
 
