@@ -23,8 +23,8 @@ p {
   margin-bottom: 12px; /* Add some space below the input */
 }
 
-#myInput:focus {
-  border-color: blue;
+#myInput[type="text"]:focus {
+  border-color: red;
 }
 
 #myUL {
