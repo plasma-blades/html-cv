@@ -23,6 +23,10 @@ p {
   margin-bottom: 12px; /* Add some space below the input */
 }
 
+#myInput:focus {
+  border-color: blue;
+}
+
 #myUL {
   /* Remove default list styling */
   list-style-type: none;
