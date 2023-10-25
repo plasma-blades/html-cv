@@ -21,7 +21,6 @@ p {
   padding: 12px 20px 12px 40px; /* Add some padding */
   border: 1px solid #ddd; /* Add a grey border */
   margin-bottom: 12px; /* Add some space below the input */
-  display: block; /* Make it into a block element to fill the whole list */
 }
 
 #myUL {
@@ -38,7 +37,7 @@ p {
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
   font-size: 18px; /* Increase the font-size */
-  width: 100%;
+  display: block; /* Make it into a block element to fill the whole list */
 }
 
 #myUL li a:hover:not(.header) {
