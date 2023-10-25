@@ -1,3 +1,5 @@
+/* Source: https://www.w3schools.com/howto/howto_js_filter_lists.asp */
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -7,18 +9,20 @@
   </head>
   <body>
   
-  <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+  <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for certificates...">
 
   <ul id="myUL">
     <li><a href="#">Adele</a></li>
     <li><a href="#">Agnes</a></li>
-
+      <ul>
+        <li><a href="#">Jane</a></li>
     <li><a href="#">Billy</a></li>
     <li><a href="#">Bob</a></li>
 
     <li><a href="#">Calvin</a></li>
     <li><a href="#">Christina</a></li>
     <li><a href="#">Cindy</a></li>
+      </ul>
   </ul>
   </body>
 </html>
