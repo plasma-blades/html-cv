@@ -15,6 +15,7 @@ p {
   font-weight: 600;
 }
 
+/* Affects the search bar */
 #myInput {
   background-image: url('/css/searchicon.png'); /* Add a search icon to input */
   background-position: 10px 12px; /* Position the search icon */
@@ -45,6 +46,9 @@ p {
   text-decoration: none; /* Remove default text underline */
   font-size: 18px; /* Increase the font-size */
   display: block; /* Make it into a block element to fill the whole list */
+  hover{
+    border: 2px solid black;
+  }
 }
 
 #myUL li a:hover:not(.header) {
