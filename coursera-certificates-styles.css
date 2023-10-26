@@ -46,11 +46,9 @@ p {
   text-decoration: none; /* Remove default text underline */
   font-size: 18px; /* Increase the font-size */
   display: block; /* Make it into a block element to fill the whole list */
-  hover{
-    border: 2px solid black;
-  }
 }
 
 #myUL li a:hover:not(.header) {
   background-color: #eee; /* Add a hover effect to all links, except for headers */
+  border: 2px solid black;
 }
