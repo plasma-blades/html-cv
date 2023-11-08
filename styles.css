@@ -40,6 +40,7 @@ p {
 
 /* Affects the lists */
 ul {
+    text-align: left;
     font-weight: 750;
     color: midnightblue;
     border: 1px solid dodgerblue;
