@@ -28,7 +28,7 @@ h3 {
   color: darkmagenta;
 }
 
-/*Affects the text */
+/* Affects the text */
 p {
   text-align: center;
   font-weight: 750;
@@ -36,6 +36,16 @@ p {
   border: 1px solid dodgerblue;
   border-radius: 5px;
   padding: 10px:
+}
+
+/* Affects the lists */
+ul {
+    text-align: center;
+    font-weight: 750;
+    color: midnightblue;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    padding: 10px:
 }
 
 /* Background colour */
